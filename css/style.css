@@ -1,0 +1,31 @@
+.center {
+    border: 5px solid #FFFF00;
+    text-align: center;
+    }
+
+.maintext {
+    margin-left: auto;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.card {
+    padding-left: 800px;
+    padding-right: 800px;
+}
+.morpheus {
+    text-align: center;
+}
+
+.mainpage {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+  }
+
+.joke {
+    text-align: center;
+    align-items: center;
+}
